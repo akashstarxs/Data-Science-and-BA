@@ -29,4 +29,4 @@ Techniques: Machine Learning, Data Visualization, Statistical Analysis
 Contact 📬
 Feel free to connect with me on GitHub or reach out via email for collaboration or queries. Happy exploring!
 
-Akashsk2318@gmail.com
+akashsk2318@gmail.com
